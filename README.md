@@ -20,10 +20,6 @@ from this link:</p>
 <h2>Cloning and Developing</h2>
 <p>A quick introduction of the minimal setup you need to get a<br>
 copy of the project and running.Run the</p>
-<p>git init<br>
-git clone https://github.com/IITH-SBJoshi/concurrency-5.git<br>
-<p>The repository will be downloaded<br>
-</p>
 <p>Run BookMyJourney.pro using qt.</p>
 <h2>Build</h2>
 <p>Go to the directory where the project is extreacter and run this<br>
@@ -94,8 +90,4 @@ g++ test.cpp -pthread -o output <br>
 coding style in our project.Coding style used in this project is Google coding style.<br>
 To run the following test run this command<br>
 python cpplint.py &lt;c++filename&gt;</p>
-<h2>License:</h2>
-<p>This project is licensed under the MIT License - see the<br>
-https://github.com/IITH-SBJoshi/concurrency-5/blob/master/LICENSE file for<br>
-details.</p>
 
